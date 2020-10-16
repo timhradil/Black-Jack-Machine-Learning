@@ -1,8 +1,9 @@
-\*
+/*
 * A reinforcement machine learning algorithm to teach a computer to play Black Jack
 *
 * @author Tim Hradil
-*\
+*/
+
 public class BlackjackMachineLearning
 {
    private static int[] playerHand={0,0,0,0,0,0,0,0,0};
